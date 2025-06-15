@@ -85,5 +85,6 @@ crashlytics-build.properties
 /[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers.meta
 
 # Ignore the Unecessary assets
-/Ignore
-/ignore
+/Ignore/
+/ignore/
+/Assets/Ignore/
