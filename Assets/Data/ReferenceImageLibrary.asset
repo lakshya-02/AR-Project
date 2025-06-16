@@ -26,14 +26,14 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Mars
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 4deac76b0eb491a4bbce53a874569118, type: 3}
   - m_SerializedGuid:
-      m_GuidLow: 5155700781352084183
-      m_GuidHigh: 7236399578198951582
+      m_GuidLow: 4784250541136623504
+      m_GuidHigh: 18394074055851977642
     m_SerializedTextureGuid:
       m_GuidLow: 4081602288785104436
       m_GuidHigh: 10080985291084543754
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Earth
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 09751e34c3a838a40a3708fdb5dae68b, type: 3}
