@@ -557,6 +557,7 @@ GameObject:
   - component: {fileID: 1468357680}
   - component: {fileID: 1468357679}
   - component: {fileID: 1468357682}
+  - component: {fileID: 1468357683}
   m_Layer: 0
   m_Name: XR Origin
   m_TagString: Untagged
@@ -628,6 +629,24 @@ MonoBehaviour:
   ARPrefabs:
   - {fileID: 6631928643088887572, guid: 4c6b0a99e33cb164e9abfea656bad32c, type: 3}
   - {fileID: 5052913601532526924, guid: 86eeb39f089c9e7419ab32e3771f87f4, type: 3}
+--- !u!114 &1468357683
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1468357678}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: caaf68c1451c72646b01e284068f9ffc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  marspopupPrefab: {fileID: 5107421985835334123, guid: f537616d7594faf4dae370efdc593117,
+    type: 3}
+  earthPopupPrefab: {fileID: 8923608742346289829, guid: 50bb25d9579c2dc4ba0114126006afce,
+    type: 3}
+  marsPopupOffset: {x: 0, y: 0.25, z: 0.25}
+  earthPopupOffset: {x: 0, y: 0.24, z: 0.689}
 --- !u!1 &1753147933
 GameObject:
   m_ObjectHideFlags: 0
