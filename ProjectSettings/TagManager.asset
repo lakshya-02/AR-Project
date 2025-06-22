@@ -8,6 +8,7 @@ TagManager:
   - marsInfo
   - Earth
   - EarthInfo
+  - 'ARObject '
   layers:
   - Default
   - TransparentFX
